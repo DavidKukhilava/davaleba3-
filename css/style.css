@@ -1,0 +1,185 @@
+
+
+header {
+	padding-top: 41px;
+	padding-left: 63px;
+	padding-bottom: 41px;
+}
+
+.logo {
+	vertical-align: middle;
+	margin-bottom: 45px;
+	margin-right: 60px;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+li {
+	display: inline-block;
+	margin-right: 87px;
+}
+
+a {
+	color: #8D81FF;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+}
+.active	{
+	color: #4E6FAE	;
+}
+
+/*news */
+
+.banner {
+	margin-left: 250px;
+	margin-bottom: 100px;
+}
+.s-2 {
+	margin-left: 250px;
+}
+
+h3 {
+	color: #4E6FAE;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.blueline {
+	display: inline-block;
+	margin-right: 20px;
+	height: 24px;
+	width: 2px;
+	background-color: #5012D5;
+	vertical-align: middle;
+}
+
+h4 {
+	color: #4E6FAE;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+}
+
+.card-1 {  
+	width: 500px;
+	background: #E7E7E7;
+	padding: 20px 23px	;
+	display: inline-block;
+	margin-right: 50px;
+}
+
+h5 {
+	font-family: Helvetica Neue LT GEO;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #3F4145;
+margin-bottom: 20px;
+}
+
+p {
+	font-family: Helvetica Neue LT GEO;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #7E8898;
+display: inline-block;
+width: 335px;
+margin-top: 3px;
+margin-left: 34px;
+}
+.card-2 {
+	width: 500px;
+	background: #E7E7E7;
+	padding: 20px 23px	;
+	display: inline-block;
+}
+h1 {
+	margin-left: 60px;
+	height: 34px	
+	top: -360px
+	left: -746px
+	font-family: Helvetica;
+font-size: 24px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #84FF81;
+border: solid #5012D5;
+width: 31px;
+background-color: #5012D5;
+
+}
+h2 {
+		height: 34px
+height: 34px
+top: -300px
+left: -757px
+	font-family: FiraGO;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 63px;
+margin-top: 26px;
+color: #8D81FF;
+;
+}
+.logo {
+	margin-left: 250px;
+	margin-top: 50px;
+}
+
+.svg {
+	margin-right: 1000px;
+	vertical-align: middle;
+}
+
+h4 {
+
+height: 34px
+top: -258px
+left: -757px
+font-family: FiraGO;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 63px;
+}
+
+p {
+	width: 1000px
+height: 281px
+top: -210px
+left: -244px
+font-family: FiraGO;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 14px;
+}
+
+.active {
+	margin-bottom: 281px;
+	margin-left: 63px;
+}
